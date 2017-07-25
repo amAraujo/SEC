@@ -1,0 +1,22 @@
+{
+  "name": "sec",
+  "description": "Sistema de controle de estoque e fluxo de caixa.",
+  "main": "index.js",
+  "authors": [
+    "amaraujo"
+  ],
+  "license": "ISC",
+  "homepage": "https://github.com/amAraujo/SEC",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "angular": "^1.6.5",
+    "angular-ui-router": "^1.0.5"
+  }
+}

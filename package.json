@@ -1,0 +1,22 @@
+{
+  "name": "sec",
+  "version": "1.0.0",
+  "description": "Sistema de controle de estoque e fluxo de caixa.",
+  "main": "index.js",
+  "scripts": {
+    "start": "live-server --port=3000"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/amAraujo/SEC.git"
+  },
+  "author": "amaraujo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/amAraujo/SEC/issues"
+  },
+  "homepage": "https://github.com/amAraujo/SEC#readme",
+  "dependencies": {
+    "angularjs": "0.0.1"
+  }
+}
